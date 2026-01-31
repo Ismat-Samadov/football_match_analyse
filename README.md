@@ -344,3 +344,13 @@ All charts are saved in the `charts/` directory as high-resolution PNG files sui
 **Report Prepared**: January 2026
 **Data Sources**: International football match records (1872-2026)
 **Methodology**: Statistical analysis with business-focused interpretation
+
+---
+
+## Data Source
+
+Dataset: [International Football Results from 1872 to 2017](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data)
+
+Platform: Kaggle
+
+This analysis uses a comprehensive dataset of international football matches, continuously updated and maintained by the community. The dataset includes results, goalscorers, penalty shootouts, and historical team name records.
