@@ -64,3 +64,5 @@ The world's your oyster, my friend.
 
 Contribute
 If you notice a mistake or the results are not updated fast enough for your liking, you can fix that by submitting a pull request on Github: https://github.com/martj42/international_results
+
+https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data
